@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "12746929248",
+    "firebase_url": "https://messagebrunel.firebaseio.com",
+    "project_id": "messagebrunel",
+    "storage_bucket": "messagebrunel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12746929248:android:496991acea809f65",
+        "android_client_info": {
+          "package_name": "com.jb.brunelbuysell.messagebrunel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12746929248-ebghvsfhhdv7u3cfviiaq5nnvjhu2qd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jb.brunelbuysell.messagebrunel",
+            "certificate_hash": "0f83f1c3264f58c667b1d75fbc38cada0f02598e"
+          }
+        },
+        {
+          "client_id": "12746929248-mals53av7gaso2vmamf793couhspcks0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ru1ncaAIiuhxRFUr0G1_9JgYy5ke4SU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12746929248-mals53av7gaso2vmamf793couhspcks0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
